@@ -115,7 +115,7 @@ You’ll receive:
 
 ## 📊 System Architecture
 
-<img src="https://github.com/user-attachments/assets/8378437f-831f-47f9-82fd-a9bb34a6db81" alt="Azure Architecture" />
+![Arquitectura Azure](https://github.com/user-attachments/assets/8fd81e6b-0e9f-4e79-823b-3b452c55beeb)
 
 Built fully on **Azure Cloud**, it includes:
 - Azure API Management
@@ -123,7 +123,6 @@ Built fully on **Azure Cloud**, it includes:
 - Azure Blob Storage
 - Azure OpenAI
 - Azure MySQL
-- Azure Monitor
 - Azure FrontDoor + WAF
 
 ---
